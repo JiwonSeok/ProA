@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	기존 로컬 레파지토리에서 새롭게 생성된 파일
+	new new
+	
 </body>
 </html>
